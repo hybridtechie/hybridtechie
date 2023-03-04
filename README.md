@@ -9,8 +9,12 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://icon.horse/icon/dotnet.microsoft.com"></code>
-<code><img height="20" src="https://icon.horse/icon/azure.microsoft.com"></code>
+<code><img height="20" src="https://icon.horse/icon/portal.azure.com"></code>
 <code><img height="20" src="https://icon.horse/icon/python.org/)"></code>
+<code><img height="20" src="https://icon.horse/icon/javascript.com"></code>
+<code><img height="20" src="https://icon.horse/icon/visualstudio.microsoft.com"></code>
+
+**Projects:**
 
 
 
