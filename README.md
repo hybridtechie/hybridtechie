@@ -1,8 +1,8 @@
 # Hey, I'm Nithin 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&width=520&lines=Solution+Architect;GenAI+%C2%B7+Integration+%C2%B7+Cloud+Native;.NET+%C2%B7+Python+%C2%B7+TypeScript;10%2B+years+shipping+software)](https://nithinjames.me)
+**Solution Architect** · GenAI · Integration · Cloud Native
 
-**Solution Architect & builder** with 10+ years shipping software across enterprise and side projects.
+Builder with 10+ years shipping software across enterprise and side projects.
 
 ```yaml
 role:         Solution Architect · Builder
