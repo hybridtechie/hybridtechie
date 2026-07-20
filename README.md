@@ -52,11 +52,12 @@ ask_me_about: [Azure, .NET, LLM integration, event-driven architecture, MCP]
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hybridtechie&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" width="100%" />
 
-## 🐍 Contribution Snake
+## 🧱 Contribution Breakout
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hybridtechie/hybridtechie/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/hybridtechie/hybridtechie/output/github-snake.svg" alt="Snake eating my contributions" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hybridtechie/hybridtechie/output/breakout-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hybridtechie/hybridtechie/output/breakout-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/hybridtechie/hybridtechie/output/breakout-contribution-graph.svg" alt="Breakout game breaking my contribution bricks" />
 </picture>
 
 ## 📫 Find Me
