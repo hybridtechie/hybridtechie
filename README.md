@@ -44,9 +44,11 @@ ask_me_about: [Azure, .NET, LLM integration, event-driven architecture, MCP]
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hybridtechie&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hybridtechie&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hybridtechie&theme=transparent" alt="GitHub stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hybridtechie&theme=transparent" alt="Top languages" height="180" />
 </p>
+
+<img src="https://streak-stats.demolab.com?user=hybridtechie&theme=transparent&hide_border=true" alt="Contribution streak" height="180" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hybridtechie&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" width="100%" />
 
