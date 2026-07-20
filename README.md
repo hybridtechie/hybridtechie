@@ -1,10 +1,23 @@
 # Hey, I'm Nithin 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&width=520&lines=Solution+Architect;GenAI+%C2%B7+Integration+%C2%B7+Cloud+Native;.NET+%C2%B7+Python+%C2%B7+TypeScript;10%2B+years+shipping+software)](https://nithinjames.me)
+
 **Solution Architect & builder** with 10+ years shipping software across enterprise and side projects.
 
-- 🔭 Building **Second Brain** — an AI-powered personal knowledge management system (Python · React · Vite)
-- 🤖 Exploring **MCP (Model Context Protocol)** for AI-to-tool integration
-- 🌱 Learning graph databases & knowledge graphs, gRPC at scale, and AI agent orchestration patterns
+```yaml
+role:         Solution Architect · Builder
+location:     Brisbane, Australia 🇦🇺 (UTC+10)
+working_on:   [Second Brain, MCP servers, AI agent orchestration]
+learning:     [Knowledge graphs, gRPC at scale, agent evals]
+ask_me_about: [Azure, .NET, LLM integration, event-driven architecture, MCP]
+```
+
+## 🔭 Currently Building
+
+- **[Soothsay](https://github.com/hybridtechie/soothsay)** — verifies AI-agent instruction files (CLAUDE.md, AGENTS.md, SKILL.md, cursor rules) against the actual state of your repo, and fails CI when the docs lie
+- **[Roundtable AI](https://github.com/hybridtechie/roundtable-ai)** — multi-agent system orchestrating structured discussions between LLM participants (FastAPI + React, SSE streaming, ChromaDB)
+- **Second Brain** — AI-powered personal knowledge management built on a graph model *(private, for now)*
+- Exploring **MCP (Model Context Protocol)** for AI-to-tool integration
 
 ## ⚡ Tech Stack
 
@@ -31,9 +44,18 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hybridtechie&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hybridtechie&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hybridtechie&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hybridtechie&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hybridtechie/hybridtechie/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/hybridtechie/hybridtechie/output/github-snake.svg" alt="Snake eating my contributions" />
+</picture>
 
 ## 📫 Find Me
 
